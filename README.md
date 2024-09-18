@@ -1,1 +1,1 @@
-# StringChop
+A task to use unit testing on how to chop vowels from the string the users input based on what string the users can input. Thank to unit testing it helps me to think outside the box on what the users could input that expects different results. 
